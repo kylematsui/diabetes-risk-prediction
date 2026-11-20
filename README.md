@@ -23,8 +23,9 @@ This project was completed through **DataSC** at the **University of Southern Ca
 ## 📁 Files
 
 - `weekly_progress/`: Notebooks, code, and analysis documenting five weeks of project work
+- - `diabetes_binary_health_indicators_BRFSS2015.csv`: Dataset containing health, lifestyle, socioeconomic, and demographic indicators (source: Kaggle)
 - `diabetes_presentation.pdf`: Summary slide deck presenting the methodology, model results, and conclusions
-- `diabetes_binary_health_indicators_BRFSS2015.csv`: Dataset containing health, lifestyle, socioeconomic, and demographic indicators (source: Kaggle)
+- `diabetes_risk_analysis.ipynb`: Main analysis notebook containing data preparation, exploratory analysis, model comparisons, and interpretation of results.
 
 ## 🔍 Key Steps
 
